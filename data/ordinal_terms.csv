@@ -1,0 +1,13 @@
+Numbers,OrdinalNumbers,Days,Months,TimeOfDay,Educational,Size,Temperature,Age
+one,first,Monday,January,morning,preschool,tiny,freezing,infant
+two,second,Tuesday,February,noon,elementary,small,cold,child
+three,third,Wednesday,March,afternoon,middle school,medium,cool,adolescent
+four,fourth,Thursday,April,evening,high school,large,warm,adult
+five,fifth,Friday,May,night,college,huge,hot,elderly
+six,sixth,Saturday,June,,graduate school,,scorching,
+seven,seventh,Sunday,July,,,,
+eight,eighth, ,August,,,,
+nine,ninth, ,September,,,,
+ten,tenth, ,October,,,,
+, , ,November,,,,
+, , ,December,,,,
